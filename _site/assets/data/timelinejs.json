@@ -1,21 +1,21 @@
 {
     "title": {
         "media": {
-          "url": "/independencia/objects/portada.jpg",
+          "url": "/gabrielindependencia/objects/portada.jpg",
           "caption": null,
-          "credit": "Declaración de Independencia de las Provincias Unidas del Sur"
+          "credit": "Declaración de Independencia de las Provincias Unidas del Sur."
         },
         "text": {
-          "headline": "Declaración de Independencia de las Provincias Unidas del Sur Timeline",
+          "headline": "Declaración de Independencia de las Provincias Unidas del Sur. Timeline",
           "text": "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur."
         }
     },
     "events": [
       {
         "media": {
-          "url": "/independencia/objects/small/acta_sp_ay_1.jpg",
+          "url": "/gabrielindependencia/objects/small/acta_sp_ay_1.jpg",
           "caption": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español",
-          "link": "/independencia/items/español.html"
+          "link": "/gabrielindependencia/items/español.html"
         },
         "start_date": { 
           
@@ -24,6 +24,34 @@
         "text": {
           "headline": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español",
           "text": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español"
+        }
+      },{
+        "media": {
+          "url": "/gabrielindependencia/objects/small/acta_sp_ay_1.jpg",
+          "caption": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
+          "link": "/gabrielindependencia/items/aymara.html"
+        },
+        "start_date": { 
+          
+          "year": "1816"
+        },
+        "text": {
+          "headline": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
+          "text": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español"
+        }
+      },{
+        "media": {
+          "url": "/gabrielindependencia/objects/small/acta_sp_que_1.jpg",
+          "caption": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
+          "link": "/gabrielindependencia/items/quechua.html"
+        },
+        "start_date": { 
+          
+          "year": "1816"
+        },
+        "text": {
+          "headline": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
+          "text": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua"
         }
       }
     ]
